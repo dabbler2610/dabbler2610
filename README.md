@@ -1,8 +1,13 @@
-[![Visits Badge](https://badges.pufler.dev/visits/dabbler2610/pyhypervpro)](https://github.com/dabbler2610/)
-[![Repos Badge](https://badges.pufler.dev/repos/dabbler2610)](https://github.com/dabbler2610/)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/dabbler2610)](https://github.com/dabbler2610/)
+<h2 align="center">👋 Hi, I’m Hiran Das </h2> 
 
-<h2 align="center">👋 Hi, I’m <span color="blue"> Hiran Das </span> <span color="red">aka</span> <span color="blue">dabbler2610</span></h2> 
+<h2 align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Automation_Engineer-purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/Developer_4_Life-darkgreen">
+<img alt="Static Badge" src="https://img.shields.io/badge/Telecom%2FNetworking%20Domain-darkred">
+<a href="https://github.com/dabbler2610/"><img alt="Static Badge" src="https://img.shields.io/badge/aka-DABBLER2610-darkblue"></a>
+</h2>
+
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
