@@ -3,7 +3,7 @@
 <h2 align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Automation_Engineer-purple">
 <img alt="Static Badge" src="https://img.shields.io/badge/Developer_4_Life-darkgreen">
-<img alt="Static Badge" src="https://img.shields.io/badge/Telecom%2FNetworking%20Domain-darkred">
+<img alt="Static Badge" src="https://img.shields.io/badge/Domain-Telecom%2FNetworking%2FProductEngineering-yellow">
 <a href="https://github.com/dabbler2610/"><img alt="Static Badge" src="https://img.shields.io/badge/aka-DABBLER2610-darkblue"></a>
 </h2>
 
