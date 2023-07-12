@@ -1,10 +1,10 @@
-<h2 align="center">👋 Hi, I’m Hiran Das </h2> 
+<h2 align="center">👋 Hi, I’m Hiran Das <p><a href="https://github.com/dabbler2610/"><img alt="Static Badge" src="https://img.shields.io/badge/aka-DABBLER2610-darkblue"></a></p></h2> 
 
 <h2 align="center">
+<p>“All this – it’s not me, inside, and I am … more.”</p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Engineer-Software%2FAutomation-purple">
 <img alt="Static Badge" src="https://img.shields.io/badge/Developer_4_Life-darkgreen">
 <img alt="Static Badge" src="https://img.shields.io/badge/Domain-Telecom%2FNetworking%2FProductEngineering-yellow">
-<a href="https://github.com/dabbler2610/"><img alt="Static Badge" src="https://img.shields.io/badge/aka-DABBLER2610-darkblue"></a>
 </h2>
 
 
