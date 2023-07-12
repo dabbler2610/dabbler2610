@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I’m Hiran Das <p><a href="https://github.com/dabbler2610/"><img alt="Static Badge" src="https://img.shields.io/badge/aka-DABBLER2610-navy"></a></p></h2> 
 <h2 align="center">
-“All this – it’s not me, inside, and I am … more.” <a href="https://github.com/dabbler2610/"><img alt="Static Badge" src="logo-batsymbol.gif"></a>
+“All this – it’s not me, inside, I am … more.” <a href="https://github.com/dabbler2610/"><img alt="Static Badge" src="logo-batsymbol.gif"></a>
 <p></p><p><img alt="Static Badge" src="https://img.shields.io/badge/Engineer-Software%2FAutomation-darkred">
 <img alt="Static Badge" src="https://img.shields.io/badge/Developer_4_Life-litegreen">
 <img alt="Static Badge" src="https://img.shields.io/badge/Domain-Telecom%2FNetworking%2FPE-teal">
