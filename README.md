@@ -10,7 +10,7 @@
 </h2>
 
 - 👀 I’m interested in learning new Tech and contributing to opensource projects.
-- 🌱 I’m currently learning RUST as it is the new growing kid on the block and also piping into different frameworks as well as Infra tools.
+- 🌱 I’m currently learning RUST as it is the new kid on the block and also piping into different frameworks as well as Infra tools.
 - 💞️ I’m looking to collaborate on any opensource project that looks interesting to me
   
 <h2 align="center"><p> 📫 <img alt="Static Badge" src="https://img.shields.io/badge/ReachMe@-dabbler2610@proton.me-purple"></p></h2>
