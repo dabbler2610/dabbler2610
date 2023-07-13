@@ -17,7 +17,7 @@
 
 <h2>My SKILLS</h2>
 <details open>
-  <summary><h2> My Programming SKILLS</h2></summary>
+  <summary><h2>Languages</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,rust" />
@@ -25,10 +25,10 @@
   </p>
 </details>
 <details open>
-  <summary><h2>Framework</h2></summary>
+  <summary><h2>Frameworks</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
-    <img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
+    <img src="https://skillicons.dev/icons?i=flask,django,nodejs,selenium" />
   </a>
 </p>
 </details>
@@ -40,3 +40,9 @@
   </a>
 </p>
 </details>
+<h2>Other Tools & Platforms</h2>
+  <p align="left">
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,grafana,stackoverflow" />
+  </a>
+</p>
