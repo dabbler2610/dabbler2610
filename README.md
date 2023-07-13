@@ -16,7 +16,7 @@
 <h2 align="center"><p> 📫 <img alt="Static Badge" src="https://img.shields.io/badge/ReachMe@-dabbler2610@proton.me-purple"></p></h2>
 
 <h2>My SKILLS</h2>
-<details open>
+<details close>
   <summary><h2>Languages</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
@@ -27,7 +27,7 @@
   </a>
   </p>
 </details>
-<details open>
+<details close>
   <summary><h2>Frameworks</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
@@ -40,7 +40,7 @@
   </p>
 </p>
 </details>
-<details open>
+<details close>
   <summary><h2>Databases</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
@@ -48,7 +48,7 @@
   </a>
 </p>
 </details>
-<details open>
+<details close>
   <summary><h2>Productivity Tools</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
@@ -65,7 +65,7 @@
   </a>
   </p>
 </details>
-<details open>
+<details close>
   <summary><h2>Git Platforms</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
@@ -73,7 +73,7 @@
   </a>
 </p>
 </details>
-<details open>
+<details close>
   <summary><h2>Operating Systems</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
@@ -90,7 +90,7 @@
   </a>
 </p>
 </details>
-<details open>
+<details close>
   <summary><h2>Other Tools</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
