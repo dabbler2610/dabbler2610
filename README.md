@@ -18,14 +18,25 @@
 <h2>My SKILLS</h2>
 <details open>
   <summary><h2> My Programming SKILLS</h2></summary>
-  <p align="center">
+  <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,rust" />
   </a>
+  </p>
+</details>
+<details open>
+  <summary><h2>Framework</h2></summary>
+  <p align="left">
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
+  </a>
 </p>
 </details>
-
-<!---
-dabbler2610/dabbler2610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details open>
+  <summary><h2>Databases</h2></summary>
+  <p align="left">
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
+  </a>
+</p>
+</details>
