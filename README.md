@@ -77,7 +77,16 @@
   <summary><h2>Operating Systems</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
-    <img src="https://skillicons.dev/icons?i=github,gitlab" />
+    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </a>
+   <a href="https://github.com/dabbler2610/">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   </a>
 </p>
 </details>
