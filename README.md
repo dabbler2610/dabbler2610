@@ -14,10 +14,9 @@
 - 💞️ I’m looking to collaborate on any opensource project that looks interesting to me
   
 <h2 align="center"><p> 📫 <img alt="Static Badge" src="https://img.shields.io/badge/ReachMe@-dabbler2610@proton.me-purple"></p></h2>
-
 <h2>My SKILLS</h2>
-<details close>
-  <summary><h2>Languages</h2></summary>
+<details open>
+  <summary><h5>Languages</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,rust" />
@@ -27,8 +26,8 @@
   </a>
   </p>
 </details>
-<details close>
-  <summary><h2>Frameworks</h2></summary>
+<details open>
+  <summary><h5>Frameworks</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img src="https://skillicons.dev/icons?i=flask,django,nodejs,selenium" />
@@ -40,16 +39,16 @@
   </p>
 </p>
 </details>
-<details close>
-  <summary><h2>Databases</h2></summary>
+<details open>
+  <summary><h5>Databases</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
   </a>
 </p>
 </details>
-<details close>
-  <summary><h2>Productivity Tools</h2></summary>
+<details open>
+  <summary><h5>Productivity Tools</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img src="https://skillicons.dev/icons?i=vim" />
@@ -65,16 +64,16 @@
   </a>
   </p>
 </details>
-<details close>
-  <summary><h2>Git Platforms</h2></summary>
+<details open>
+  <summary><h5>Git Platforms</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img src="https://skillicons.dev/icons?i=github,gitlab" />
   </a>
 </p>
 </details>
-<details close>
-  <summary><h2>Operating Systems</h2></summary>
+<details open>
+  <summary><h5>Operating Systems</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
@@ -93,8 +92,8 @@
   </a> 
 </p>
 </details>
-<details close>
-  <summary><h2>Other Tools</h2></summary>
+<details open>
+  <summary><h5>Other Tools</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
