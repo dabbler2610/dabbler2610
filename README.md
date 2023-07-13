@@ -22,6 +22,9 @@
   <a href="https://github.com/dabbler2610/">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,rust" />
   </a>
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  </a>
   </p>
 </details>
 <details open>
@@ -30,6 +33,11 @@
   <a href="https://github.com/dabbler2610/">
     <img src="https://skillicons.dev/icons?i=flask,django,nodejs,selenium" />
   </a>
+  <p>
+    <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white">
+  </a>
+  </p>
 </p>
 </details>
 <details open>
@@ -40,9 +48,51 @@
   </a>
 </p>
 </details>
-<h2>Other Tools & Platforms</h2>
+<details open>
+  <summary><h2>Productivity Tools</h2></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,grafana,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vim" />
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </a>
+  </p>
+</details>
+<details open>
+  <summary><h2>Git Platforms</h2></summary>
+  <p align="left">
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://skillicons.dev/icons?i=github,gitlab" />
   </a>
 </p>
+</details>
+<details open>
+  <summary><h2>Operating Systems</h2></summary>
+  <p align="left">
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://skillicons.dev/icons?i=github,gitlab" />
+  </a>
+</p>
+</details>
+<details open>
+  <summary><h2>Other Tools</h2></summary>
+  <p align="left">
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white">
+  </a>
+</p>
+</details>
+
