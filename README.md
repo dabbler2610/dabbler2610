@@ -88,6 +88,9 @@
   <a href="https://github.com/dabbler2610/">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   </a>
+  <a href="https://github.com/dabbler2610/">
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  </a> 
 </p>
 </details>
 <details close>
@@ -102,6 +105,29 @@
   <a href="https://github.com/dabbler2610/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white">
   </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+  </a>
+  <a href="https://github.com/dabbler2610/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  </a>
 </p>
 </details>
-
