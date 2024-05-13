@@ -16,9 +16,9 @@
 - 💞️ I’m looking to collaborate on any opensource project that looks interesting to me
   
 <h2 align="center"><p> 📫 <img alt="ReachMe @ dabbler2610@proton.me" src="https://img.shields.io/badge/ReachMe@-dabbler2610@proton.me-purple"></p></h2>
-<h2>My SKILLS</h2>
+<h2>My Tech Stack</h2>
 <details open>
-  <summary><h5>Languages</h5></summary>
+  <summary><h5>Language Stack</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img alt="JavaScript - HTML - CSS - Python - Bash - Rust" src="https://skillicons.dev/icons?i=js,html,css,py,bash,rust" />
@@ -29,7 +29,7 @@
   </p>
 </details>
 <details open>
-  <summary><h5>Frameworks</h5></summary>
+  <summary><h5>Frameworks Stack</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img alt="FLASK - django - NodeJS - Selenium" src="https://skillicons.dev/icons?i=flask,django,nodejs,selenium" />
@@ -42,7 +42,7 @@
 </p>
 </details>
 <details open>
-  <summary><h5>Databases</h5></summary>
+  <summary><h5>Database Stack</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img alt="SQLite - MySQL - MongoDB" src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
@@ -50,7 +50,7 @@
 </p>
 </details>
 <details open>
-  <summary><h5>Productivity Tools</h5></summary>
+  <summary><h5>Productivity Tool Stack</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img alt="VIM" src="https://skillicons.dev/icons?i=vim" />
@@ -75,7 +75,7 @@
 </p>
 </details>
 <details open>
-  <summary><h5>Operating Systems</h5></summary>
+  <summary><h5>OS Stack</h5></summary>
   <p align="left">
   <a href="https://github.com/dabbler2610/">
     <img alt="RedHat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
