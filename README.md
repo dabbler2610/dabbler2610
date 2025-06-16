@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, Folks<p><a href="https://github.com/dabbler2610/"><img alt="I'am Da₿₿ler" src="https://img.shields.io/badge/I'am-Da₿₿ler-orange" width="150px" align="center"></a>
+<h2 align="center">👋 Hi, Folks I'am Hiran Das<p><a href="https://github.com/dabbler2610/"><img alt="aka Da₿₿ler" src="https://img.shields.io/badge/aka-Da₿₿ler-orange" width="150px" align="center"></a>
 <br><br><a href="https://github.com/dabbler2610/"><img alt="Profile Visits Count" src="https://komarev.com/ghpvc/?username=dabbler2610&label=Profile+Visits&color=green"></a></p></h2>
 
 <h2 align="center">
